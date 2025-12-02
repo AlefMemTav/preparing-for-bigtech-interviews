@@ -1,119 +1,81 @@
-# 👨‍🎓📚💪💻 Preparing for Google, Meta, Amazon interviews
-Most Leetcode exercises (Top 150), especially: Arrays, Strings, HashMap, Trees, Graphs, Dynamic Programming
+# 👨‍🎓📚💪💻 Preparing for Big Tech Interviews (Google, Meta, Amazon)
+Most Leetcode exercises especially: Arrays, Strings, HashMap, Trees, Graphs, Dynamic Programming
 
-## Arrays
-### Easy
-1. Merge two sorted arrays [(Solution)](arrays/MergeTwoSortedArrays)
-2. Remove duplicates from an array [(Solution)](arrays/RemoveDuplicatesFromAnArray)
-3. Count the frequency of an element in an array [(Solution)](arrays/CountTheFrequencyOfAnElementInAnArray/)
-4. Two sum [(Solution)](arrays/TwoSum/) #1
-5. Find the minimum (or maximum) element of an array
-6. Remove duplicates from sorted array
-7. Remove element in-place
-8. Search Insert Position
-9. Maximum Subarray
-10. Plus One
-11. Convert Sorted Array to Binary Search Tree (Arrays/Binary Trees)
-12. Single Number
-13. Count Primes
-14. Contains Duplicate
-15. Third Largest Number
-16. Count Odd Even
-    
-### Medium
-1. Move all zeros to the beginning/end of an array
-2. Find if a given element is in a sorted array (binary search)
-3. Rotate an array
-4. Largest sum of non-adjacent numbers (Dynamic Programming) [(Solution)](arrays/LargestSumOfNon-adjacentNumbers/)
-5. A Product Array Puzzle
-6. Maximum Product Subarray (Dynamic programming)
-7. Shortest Unsorted Continuous Subarray
-8. Maximum sum of hour glass in matrix
-9. Paint House (Dynamic programming)
-10. Minimum number of jumps to reach end
-11. Find duplicates in O(n) time and O(1) extra space
-12. Find three numbers with the maximum product
-13. Maximum Sum Circular Subarray
-14. Minimum number of swaps to sort an array
+# 📅 List 
 
-### Hard
-1. Rotate a 2D array
-2. Create change with coins (dynamic programming
-3. Sliding window maximum
-4. Find the smallest positive number missing from an unsorted array
-5. Find the missing number in unordered Arithmetic Progression
-6. Find the maximum j – i such that arr[j] > arr[i] (Distance maximising problem)
-7. Array manipulation
-8. Median of Two Sorted Arrays
-9. Sudoku Solver
-10. Largest Rectangle in Histogram
-11. Maximal Rectangle in binary matrix
-12. Find Minimum in Rotated Sorted Array
-13. Count of Smaller Numbers After Self
-14. Palindrome Pairs
-15. Sort an array containing 0’s, 1’s and 2’s
-16. Longest increasing subsequence
-17. Trapping Rain Water
+## 🗓️ Fundamentals Arrays, Strings, Hash (Easy → Medium)
 
-## Strings
-### Easy
-1. Remove Vowels from a String [(Solution)](strings/RemoveVowelsFromAString)
-2. Defanging an IP Address
-3. Jewels and Stones
-4. Shuffle String
-5. Split a String in Balanced Strings
-6. To Lower Case
-7. Unique Morse Code Words
-8. Count Substrings with Only One Distinct Letter
-9. Robot Return to Origin
-10. Fizz Buzz
-11. First Unique Character in a String
-12. Reverse String
-13. Valid Anagram
-14. Valid Palindrome
-15. Implement Strstr()
-16. Valid Parentheses
-17. Roman to Integer
-18. Longest Common Prefix
-19. Excel Sheet Column Number
-20. Palindrome Permutation
-    
-### Medium
-1. Longest Substring Without Repeating Characters
-2. Longest Palindromic Substring
-3. String to Integer (atoi)
-4. Letter Combinations of a Phone Number
-5. Generate Parentheses
-6. Count and Say
-7. Group Anagrams
-8. Decode Ways
-9. Palindrome Partitioning
-10. Word Break
-11. Fraction to Recurring Decimal
-12. Largest Number
-13. Implement Trie (Prefix Tree)
-14. Basic Calculator II
-15. Longest Substring with At Least K Repeating Characters
-16. Palindrome Partitioning
-17. Reorganize String
-18. ZigZag Conversion
-19. Decode String
-20. Multiply Strings
+1. **Two Sum** – https://leetcode.com/problems/two-sum/
+2. **Best Time to Buy and Sell Stock** – https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+3. **Contains Duplicate** – https://leetcode.com/problems/contains-duplicate/
+4. **Valid Anagram** – https://leetcode.com/problems/valid-anagram/
+5. **Move Zeroes** – https://leetcode.com/problems/move-zeroes/
+6. **Reverse String** – https://leetcode.com/problems/reverse-string/
+7. **Valid Parentheses** – https://leetcode.com/problems/valid-parentheses/
+8. **Merge Sorted Array** – https://leetcode.com/problems/merge-sorted-array/
+9. **Intersection of Two Arrays II** – https://leetcode.com/problems/intersection-of-two-arrays-ii/
+10. **Plus One** – https://leetcode.com/problems/plus-one/
+11. **Maximum Subarray** – https://leetcode.com/problems/maximum-subarray/
+12. **Rotate Array** – https://leetcode.com/problems/rotate-array/
+13. **Single Number** – https://leetcode.com/problems/single-number/
+14. **Palindrome Linked List** – https://leetcode.com/problems/palindrome-linked-list/
+15. **Length of Last Word** – https://leetcode.com/problems/length-of-last-word/
+17. **Best Time to Buy and Sell Stock** – https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+18. **Two Sum** – https://leetcode.com/problems/two-sum/
+19. **Remove duplicates sorted array** – https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+20. **Remove element** – https://leetcode.com/problems/remove-element/
+21. **Search Insert Position** – https://leetcode.com/problems/search-insert-position/
+22. **Maximum Subarray** – https://leetcode.com/problems/maximum-subarray/
+23. **Plus One** – https://leetcode.com/problems/plus-one/
+24. **Convert Sorted Array to BST** – https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+25. **Single Number** – https://leetcode.com/problems/single-number/
+26. **Count Primes** – https://leetcode.com/problems/count-primes/
+27. **Contains Duplicate** – https://leetcode.com/problems/contains-duplicate/
+28. **Third Maximum Number** – https://leetcode.com/problems/third-maximum-number/
 
-### Hard
-1. Regular Expression Matching
-2. Wildcard Matching
-3. Minimum Window Substring
-4. Word Ladder
-5. Word Break II
-6. Word Search II
-7. Serialize and Deserialize Binary Tree
-8. Longest Valid Parentheses
-9. Edit Distance
-10. Alien Dictionary (string/graph)
-11. Design Search Autocomplete System
+---
 
+## 🗓️ Advanced structures and algorithms (Medium)
 
-## Lists
-### Medium
-1. Add Two Numbers [(Solution)](lists/addTwoNumbers) #2
+1. **Linked List Cycle** – https://leetcode.com/problems/linked-list-cycle/
+2. **Reverse Linked List** – https://leetcode.com/problems/reverse-linked-list/
+3. **Merge Two Sorted Lists** – https://leetcode.com/problems/merge-two-sorted-lists/
+4. **Binary Tree Inorder Traversal** – https://leetcode.com/problems/binary-tree-inorder-traversal/
+5. **Maximum Depth of Binary Tree** – https://leetcode.com/problems/maximum-depth-of-binary-tree/
+6. **Symmetric Tree** – https://leetcode.com/problems/symmetric-tree/
+7. **Path Sum** – https://leetcode.com/problems/path-sum/
+8. **Number of Islands** – https://leetcode.com/problems/number-of-islands/
+9. **Clone Graph** – https://leetcode.com/problems/clone-graph/
+10. **Course Schedule** – https://leetcode.com/problems/course-schedule/
+11. **Letter Combinations of a Phone Number** – https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+12. **Permutations** – https://leetcode.com/problems/permutations/
+13. **Combination Sum** – https://leetcode.com/problems/combination-sum/
+14. **Word Search** – https://leetcode.com/problems/word-search/
+15. **Top K Frequent Elements** – https://leetcode.com/problems/top-k-frequent-elements/
+
+---
+
+## 🗓️  DP, Difficult graphs and interview simulation (Medium → Hard)
+
+1. **Longest Substring Without Repeating Characters** – https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2. **Minimum Window Substring** – https://leetcode.com/problems/minimum-window-substring/
+3. **Longest Palindromic Substring** – https://leetcode.com/problems/longest-palindromic-substring/
+4. **Container With Most Water** – https://leetcode.com/problems/container-with-most-water/
+5. **Trapping Rain Water** – https://leetcode.com/problems/trapping-rain-water/
+6. **Merge Intervals** – https://leetcode.com/problems/merge-intervals/
+7. **Insert Interval** – https://leetcode.com/problems/insert-interval/
+8. **Decode Ways** – https://leetcode.com/problems/decode-ways/
+9. **Climbing Stairs** – https://leetcode.com/problems/climbing-stairs/
+10. **House Robber** – https://leetcode.com/problems/house-robber/
+11. **Unique Paths** – https://leetcode.com/problems/unique-paths/
+12. **Coin Change** – https://leetcode.com/problems/coin-change/
+13. **Word Break** – https://leetcode.com/problems/word-break/
+14. **Maximum Product Subarray** – https://leetcode.com/problems/maximum-product-subarray/
+15. **Serialize and Deserialize Binary Tree** – https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+16. **Binary Tree Maximum Path Sum** – https://leetcode.com/problems/binary-tree-maximum-path-sum/
+17. **Find Median from Data Stream** – https://leetcode.com/problems/find-median-from-data-stream/
+18. **Sliding Window Maximum** – https://leetcode.com/problems/sliding-window-maximum/
+19. **Shortest Path in a Grid with Obstacles Elimination** – https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+20. **Trapping Rain Water II** – https://leetcode.com/problems/trapping-rain-water-ii/
+
+---
