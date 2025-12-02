@@ -20,17 +20,11 @@ Most Leetcode exercises especially: Arrays, Strings, HashMap, Trees, Graphs, Dyn
 13. **Single Number** – https://leetcode.com/problems/single-number/
 14. **Palindrome Linked List** – https://leetcode.com/problems/palindrome-linked-list/
 15. **Length of Last Word** – https://leetcode.com/problems/length-of-last-word/
-17. **Best Time to Buy and Sell Stock** – https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-18. **Two Sum** – https://leetcode.com/problems/two-sum/
 19. **Remove duplicates sorted array** – https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 20. **Remove element** – https://leetcode.com/problems/remove-element/
 21. **Search Insert Position** – https://leetcode.com/problems/search-insert-position/
-22. **Maximum Subarray** – https://leetcode.com/problems/maximum-subarray/
-23. **Plus One** – https://leetcode.com/problems/plus-one/
 24. **Convert Sorted Array to BST** – https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-25. **Single Number** – https://leetcode.com/problems/single-number/
 26. **Count Primes** – https://leetcode.com/problems/count-primes/
-27. **Contains Duplicate** – https://leetcode.com/problems/contains-duplicate/
 28. **Third Maximum Number** – https://leetcode.com/problems/third-maximum-number/
 
 ---
